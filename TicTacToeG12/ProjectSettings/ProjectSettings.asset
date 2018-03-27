@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: a842d1e9e643afb46bc267188b62341b
+  productGUID: 722c0b36c868ea6469edc796a00a48fb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TicTacToeG12
+  productName: TicTacToeTutorial
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -557,14 +557,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TicTacToeG12
+  metroPackageName: TicTacToeTutorial
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TicTacToeG12
+  metroApplicationDescription: TicTacToeTutorial
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -633,9 +633,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: b57e2fab-3cc9-4a49-a08a-5bde87546516
-  projectName: TicTacToeG12
-  organizationId: bhaalder
+  cloudProjectId: ca89b213-e839-4858-9655-8b7c4a3c585f
+  projectName: TicTacToeTutorial
+  organizationId: lingoon
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
